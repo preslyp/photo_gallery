@@ -1,0 +1,25 @@
+html { height: 100%; width: 100%; }
+body { height: 100%; width: 100%; margin: 0; padding: 0; border: 0; background: #FFFFFF;
+  font: 13px/15px Verdana,Arial,Helvetica,sans-serif; }
+img { border: none; }
+
+.thumb {
+    margin-bottom: 30px;
+}
+
+.text-primary {
+	margin: 25px 0 15px 0;
+	font-size: 1.5em;
+}
+.body {
+	margin: 0 0 15px 0;
+	font-size: 1.2em;
+}
+
+#main { min-height: 600px; padding: 2em;  overflow: hidden; }
+
+.selected {
+	background-color: #000;
+}
+
+
